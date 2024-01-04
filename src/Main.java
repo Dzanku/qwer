@@ -4,7 +4,5 @@ public class Main {
         int price = 20;
         int bonus = amount / price;
         System.out.println("Итоговый бонус " + bonus);
-
-        }
-
     }
+}
